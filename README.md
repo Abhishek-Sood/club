@@ -1,17 +1,19 @@
 # Club Checkin
 
 **Overview**<br />
-Club Checkin is a straightforward web application designed to streamline check-ins for club events or meetings. The application provides a user-friendly interface for users to reset their passwords. With its clean and trendy design featuring a light blue gradient background, Club Checkin is suitable for college or club websites.
+Club Checkin is a straightforward web application designed to streamline check-ins for club events or meetings. The application provides a user-friendly interface for users to reset their passwords. With its clean and trendy design featuring a light blue gradient background, Club Checkin is suitable for college or club websites where one club can check the details of other clubs or share the details of their club itself.
 
 **Features**<br />
 * Password Reset: Easily reset your password by providing your email address.
-* Stylish Design: Modern and stylish design with a light blue gradient background for a pleasant user experience.<br />
+* Stylish Design: Modern and stylish design with a light blue gradient background for a pleasant user experience.
+* User Friendly: Easy to use options like generating and deleting queries regarding diffrent clubs and also faculty friendly too by let them deciding what to do with the query of the clubs.<br />
 
 **Usage**<br />
-* Open the index.html file in a web browser.
+* Click on the link provided as direct method to access the site.
 * Enter your email address in the designated field.
-* Click on the "Reset Password" button to initiate the password reset process.
-* Optionally, use the "Back to Login" link to return to the login page.
+* Enter your password and dont worry if you forgot your password just click on the Reset Password option.
+* Now, On the home page you can apply for and see for different Club meetings and apply without any hectic process and let the people know that you want to arrange a Club meeting.
+* If your request letter is accepted by the faculty then you can proceed and can go further.
 
 **Customization**<br />
 Feel free to customize the application according to your preferences:
